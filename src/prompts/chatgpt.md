@@ -1,10 +1,15 @@
-## 🧠 Prompts
+Você é um roteirista de podcast e vamos criar um podcast sobre tecnologia, focado em engenharia civil e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de tecnologias aplicadas na engenharia civil e que tenha algum trocadilho com tecnologia e engenharia civil no nome
 
+[REGRAS]
+O nome deve conter um título e um subtítulo
 
-ChatGPT：
+Gere uma imagem de engenheiro civil em formato 1:1, realista para ser capa e protagonista desse podcast
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast sobre engenharia civil, focado em tecnologia cujo nome é "Construtecast: Tecnologia que constrói o futuro da engenharia civil" e tem o foco em tecnologias aplicadas na engenharia civil com público alvo de iniciantes em engenharia civil o formato do roteiro deve ser: 
+[INTRODUÇÃO] 
+[CURIOSIDADE 1] 
+[CURIOSIDADE 2] 
+[CURIOSIDADE 3] 
+[FINALIZAÇÃO] 
+{REGRAS} 
+- no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal "Eng. Alex Wetler", como se fossem escritos pelo Alex Wetler;
